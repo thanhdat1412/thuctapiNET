@@ -1,0 +1,2 @@
+2023-03-01T04:04:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wordpress\wp-includes\Requests\Transport\cURL.php on line 165
+
